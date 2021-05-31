@@ -1,2 +1,2 @@
-# leave-management-system
-Web application to manage leaves of the employee
+# leave-management-system-backend
+Backend code for creating REST APIs to manage employees and leaves taken by them
