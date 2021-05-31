@@ -1,5 +1,5 @@
 # leave-management-system-backend
-Backend code for creating REST APIs to manage employees and leaves taken by them
+Backend code for creating REST APIs to manage employees and leaves taken by them.
 
 Description :
 Spring Boot-based web application that exposes RESTful CRUD APIs to clients. It involves the creation, retrieval, updation and deletion of employees and subsequent operations for applying leave and taking actions on it.
