@@ -13,7 +13,7 @@ Requirements :
 
 How To Run :
 * Create a mysql database and import tables from app-DB-Script.sql
-* Import the project in Eclipse IDE and run as java application. The application will get started at embedded tomcat server.
+* Import and create a maven project in Eclipse IDE and run as java application. The application will get started at embedded tomcat server.
 * Hit the apis from Postman (Ex. GET http://localhost:8080/employees)
 
 Update :
