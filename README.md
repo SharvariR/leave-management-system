@@ -15,3 +15,17 @@ How To Run :
 * Create a mysql database and import tables from app-DB-Script.sql
 * Import the project in Eclipse IDE and run as java application. The application will get started at embedded tomcat server.
 * Hit the apis from Postman (Ex. GET http://localhost:8080/employees)
+
+Update :
+Api documentation using the Springfox implementation of the Swagger 2 specification.
+* Add springfox dependencies in pom.xml
+
+![image](https://user-images.githubusercontent.com/40176983/120137620-5ce9ba80-c1f2-11eb-9dd2-c4d0ed5f6567.png)
+
+* Add docket bean and @EnableSwagger2 annotation in @SpringBootApplication class.
+* Run the application.
+* Open the browser and go to http://localhost:8080/swagger-ui.html#/
+
+![image](https://user-images.githubusercontent.com/40176983/120137863-e0a3a700-c1f2-11eb-9458-fb694e5255f4.png)
+
+ 
